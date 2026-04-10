@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+header a{
+    color: black;
+}
+
+header{
+    background-color:aqua;
+    padding:2px;
+}
+
+main h1{
+    text-align:center;
+    color:palegreen;
+    background-color:purple;
+}
+
+footer{
+    background-color: deeppink;
+}
+
+footer p{
+    color:blue;
+}
+
+.aoaoa{
+    background-color: greenyellow;
+}
+
+.eoeoeoe{
+    font-size:25px;
+    color:blue;
+}
